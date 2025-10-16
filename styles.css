@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+
+.container{
+	width:90%;
+	text-align:center;
+	padding:20px;
+	
+}
+
+.code-container{
+	gap:15px;
+	display:flex;
+	justify-content:center;
+}
+
+.code{
+	width:90px;
+	height:90px;
+	font-size:50px;
+	text-align:center;
+	border-radius:10px;
+}
+ 
